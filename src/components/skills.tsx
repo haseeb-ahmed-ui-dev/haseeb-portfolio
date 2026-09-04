@@ -10,7 +10,7 @@ const groups: Group[] = [
   },
   {
     title: "Styling & UI",
-    skills: ["Tailwind CSS", "shadcn/ui", "HTML5", "CSS3", "Responsive Design"],
+    skills: ["Tailwind CSS", "shadcn/ui", "HTML5", "CSS3"],
   },
   {
     title: "Data & APIs",
